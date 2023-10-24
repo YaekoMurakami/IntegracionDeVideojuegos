@@ -1,0 +1,404 @@
+fileFormatVersion: 2
+guid: 849fad48150b49a40b39c6f92bc29a48
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 100_minecraft_blocks_by_theoceanowl_d9qpqaf-fullview_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1415
+        width: 150
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc926df1e7eac6f418d28dd537527672
+      internalID: 1812108735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_minecraft_blocks_by_theoceanowl_d9qpqaf-fullview_1
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 939
+        width: 157
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7a14c81a1fc664894674ebc2050c68
+      internalID: -261881135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_minecraft_blocks_by_theoceanowl_d9qpqaf-fullview_2
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 13
+        width: 152
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61775fc80147dc4b96748bcde99c051
+      internalID: -825746028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_minecraft_blocks_by_theoceanowl_d9qpqaf-fullview_3
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 331
+        width: 135
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96e4f9ca047e8049bb554d6ab62ecfa
+      internalID: 1460265458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_minecraft_blocks_by_theoceanowl_d9qpqaf-fullview_4
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 331
+        width: 142
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a70506dce2d4142a3c2a145989e5fb
+      internalID: -1594027385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_minecraft_blocks_by_theoceanowl_d9qpqaf-fullview_5
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 26
+        width: 162
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22732d658b0277b489ed9ee77a12c804
+      internalID: 1152487485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_minecraft_blocks_by_theoceanowl_d9qpqaf-fullview_6
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1411
+        width: 146
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632b074f0c46ba1479136ba564f0dc38
+      internalID: 497497595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_minecraft_blocks_by_theoceanowl_d9qpqaf-fullview_7
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1267
+        width: 148
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f1cc05fecca1a459ae17bb36a3fe9c
+      internalID: 1123399982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_minecraft_blocks_by_theoceanowl_d9qpqaf-fullview_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 948
+        width: 170
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c755a1b92a0ad044087cfa33f89c130b
+      internalID: 1843147793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_minecraft_blocks_by_theoceanowl_d9qpqaf-fullview_9
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 953
+        width: 131
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da22fb1f1d280de43be0e9fa59188283
+      internalID: -1375653990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_minecraft_blocks_by_theoceanowl_d9qpqaf-fullview_10
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 1099
+        width: 151
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358b2c8cf8bcf97428f476912aa4e5cd
+      internalID: -1313181904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_minecraft_blocks_by_theoceanowl_d9qpqaf-fullview_11
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 798
+        width: 152
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83148a8e69c577f4597248405f723031
+      internalID: 351162994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 91fc0daf618d7bb4ba11140a7789053d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      100_minecraft_blocks_by_theoceanowl_d9qpqaf-fullview_0: 1812108735
+      100_minecraft_blocks_by_theoceanowl_d9qpqaf-fullview_1: -261881135
+      100_minecraft_blocks_by_theoceanowl_d9qpqaf-fullview_10: 1320525442
+      100_minecraft_blocks_by_theoceanowl_d9qpqaf-fullview_11: -1375653990
+      100_minecraft_blocks_by_theoceanowl_d9qpqaf-fullview_2: -825746028
+      100_minecraft_blocks_by_theoceanowl_d9qpqaf-fullview_3: 1460265458
+      100_minecraft_blocks_by_theoceanowl_d9qpqaf-fullview_4: -1594027385
+      100_minecraft_blocks_by_theoceanowl_d9qpqaf-fullview_5: 1152487485
+      100_minecraft_blocks_by_theoceanowl_d9qpqaf-fullview_6: 497497595
+      100_minecraft_blocks_by_theoceanowl_d9qpqaf-fullview_7: 1123399982
+      100_minecraft_blocks_by_theoceanowl_d9qpqaf-fullview_8: 1368126040
+      100_minecraft_blocks_by_theoceanowl_d9qpqaf-fullview_9: 1843147793
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
