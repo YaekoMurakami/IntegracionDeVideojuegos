@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/_Project/Scenes/Parcial 1/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/_Project/Scenes/Sprites_UI_Practica.unity
+    guid: eda649b03ba6da84bbd617dad50d4c73
   m_configObjects: {}
